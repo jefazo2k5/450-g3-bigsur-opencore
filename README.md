@@ -1,12 +1,16 @@
 # 450-g3-bigsur-opencore
 Opencore 0.7.0 configuration working ,
 
--Added drivers for Intel wifi 3165 working airport native.(really stable).
+-Added drivers for Intel wifi 3165 working airport native.(really stable)
 
--DSDT,ACPI patches.
+-DSDT,ACPI patches
+
 -Boot speed improved.
+
 -Sound working.
+
 -Pci hardware defined.(more "as MAC").
+
 -IMPORTANT: PlatformInfo IS EMPTY ,YOU COULD GENERATE NEW ONE TO USE THIS CONFIG.
 
 Thanks to :
