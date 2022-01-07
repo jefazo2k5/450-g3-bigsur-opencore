@@ -2,6 +2,7 @@
 Opencore 0.7.0 configuration working ,
 
 -Added drivers for Intel wifi 3165 working airport native.(really stable).
+
 -DSDT,ACPI patches.
 -Boot speed improved.
 -Sound working.
